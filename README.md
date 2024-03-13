@@ -2,3 +2,5 @@
 This is the Quiz System for desktop Users 
 <br>
 Python is used as a coding language.
+<br>
+Author- Rohit Patel
